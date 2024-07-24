@@ -14,6 +14,7 @@
     <name>bhuang-spring-boot-ratelimit</name>
     <description>bhuang-spring-boot-ratelimit</description>
     <url/>
+    git remote add origin git@hwangsome.github.com:Hwangsome/spring-boot-ratelimit.git/
     <licenses>
         <license/>
     </licenses>
